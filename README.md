@@ -1,5 +1,3 @@
-DEPRECATED REPO
-===============
 
-This repo is deprecated, it has been merged with
-[timestreamlib](https://github.com/borevitzlab/timestreamlib)
+## DEPRECATED
+Please use the current version of the TimeStream tools at https://gitlab.com/appf-anu/pyts2.
